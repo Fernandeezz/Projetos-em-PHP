@@ -1,3 +1,4 @@
+<?php
 //um programa em PHP que permita entrar com o nome, a idade e o sexo de 20 pessoas.
 
 for ($i = 1; $i <= 20; $i++) {
@@ -10,3 +11,4 @@ for ($i = 1; $i <= 20; $i++) {
       echo '<br>';
     }
   }
+?>
