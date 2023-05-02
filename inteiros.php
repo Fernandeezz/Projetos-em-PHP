@@ -1,3 +1,4 @@
+<?php
 //calcule o produto de dois números inteiros.
 
 $multiplicando = intval(readline("Digite o multiplicando: "));
@@ -8,3 +9,4 @@ for ($i = 1; $i <= $multiplicador; $i++) {
 }
 echo "O produto é: " . $produto;
 echo '<br>';
+?>
