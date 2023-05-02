@@ -1,3 +1,4 @@
+<?php
 // um programa PHP que leia dois valores numéricos inteiros e efetue a adição, caso o resultado seja maior que 10, apresentá-lo.
 
 $multiplicando = intval(readline("Digite o multiplicando: "));
@@ -8,3 +9,4 @@ for ($i = 1; $i <= $multiplicador; $i++) {
 }
 echo "O produto é: " . $produto;
 echo '<br>';
+?>
